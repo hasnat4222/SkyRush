@@ -1,11 +1,11 @@
-# 🚀 SkyRush
+#  SkyRush
 ### Dodge. Fly. Survive.
 
 **SkyRush** is a 2D endless arcade flying and dodging game developed using Flutter and Dart as a Mobile App Development academic project.
 
 -------
 
-## 📑 Table of Contents
+##  Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Game Features](#-game-features)
@@ -24,7 +24,7 @@
 
 ---
 
-## 🎮 Project Overview
+##  Project Overview
 
 SkyRush is a 2D endless arcade flying and dodging game made with Flutter and Dart. The player taps the screen to flap upward, while gravity continuously pulls the character downward. The objective is to navigate through gaps in incoming energy gates, avoid obstacles, collect coins, and achieve the highest possible score.
 
@@ -44,7 +44,7 @@ The project is developed as an Android mobile application for a Mobile App Devel
 
 ---
 
-## ✨ Game Features
+##  Game Features
 
 - **Tap-to-Fly Controls:** Tap the screen to make the character flap upward.
 - **Endless Energy Gates:** Navigate through randomly positioned obstacle gaps.
@@ -63,7 +63,7 @@ The project is developed as an Android mobile application for a Mobile App Devel
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -77,7 +77,7 @@ The project is developed as an Android mobile application for a Mobile App Devel
 
 ---
 
-## 🧑‍🚀 Game Characters and Unlocking System
+##  Game Characters and Unlocking System
 
 SkyRush includes four playable characters. The default character is free, while the remaining characters can be unlocked using collected coins.
 
@@ -92,7 +92,7 @@ Players can purchase characters using their collected coins and select unlocked 
 
 ---
 
-## 🏆 Scoring, Coins and Achievement System
+##  Scoring, Coins and Achievement System
 
 ### Score and Coins
 
@@ -118,7 +118,7 @@ Achievement progress and unlocks are stored locally on the device.
 
 ---
 
-## 📸 Project Screenshots
+##  Project Screenshots
 
 Screenshots of the actual game will be added here.
 
@@ -136,7 +136,7 @@ Screenshots of the actual game will be added here.
 
 ---
 
-## 📁 Project Folder Structure
+##  Project Folder Structure
 
 ```text
 SkyRush/
@@ -188,7 +188,7 @@ SkyRush/
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 The project uses the following packages:
 
@@ -209,7 +209,7 @@ The project uses the following packages:
 
 ---
 
-## ⚙️ Installation and Setup Guide
+##  Installation and Setup Guide
 
 Follow these steps to set up the project on your computer.
 
@@ -243,7 +243,7 @@ flutter doctor
 
 ---
 
-## ▶️ How to Run the Game
+##  How to Run the Game
 
 **1.** Start an Android Emulator or connect an Android device.
 
@@ -269,7 +269,7 @@ Note: Configure a proper release signing key before distributing the application
 
 ---
 
-## 💻 Development Details
+##  Development Details
 
 - The application starts from `main.dart`.
 - The game simulation is managed by `SkyRushGame`.
@@ -282,7 +282,7 @@ Note: Configure a proper release signing key before distributing the application
 
 ---
 
-## ⚠️ Known Limitations
+##  Known Limitations
 
 - The game currently does not include sound or vibration features.
 - Game progress is stored locally on the device.
@@ -292,7 +292,7 @@ Note: Configure a proper release signing key before distributing the application
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 Possible future improvements include:
 
@@ -305,7 +305,7 @@ Possible future improvements include:
 
 ---
 
-## 👨‍💻 Contributors
+##  Contributors
 
 This project was collaboratively developed by:
 
@@ -320,6 +320,6 @@ This project was collaboratively developed by:
 
 ---
 
-⭐ If you like this project, consider giving the repository a star!
+ If you like this project, consider giving the repository a star!
 
 **Developed with Flutter & Dart.**
