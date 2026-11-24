@@ -3,7 +3,7 @@
 
 **SkyRush** is a 2D endless arcade flying and dodging game developed using Flutter and Dart as a Mobile App Development academic project.
 
----
+-------
 
 ## 📑 Table of Contents
 
